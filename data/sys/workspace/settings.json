@@ -1,10 +1,16 @@
 {
   "site": {
-    "name": "",
+    "name": "InterTrader",
     "tagline": "",
     "description": "",
-    "url": "",
-    "theme": "gin-whitepaper",
-    "gaTrackingId": ""
+    "url": "https://intertrader.online",
+    "contentRoot": "",
+    "defaultSection": "",
+    "defaultBlog": "0",
+    "theme": "gin-tonic",
+    "gaTrackingId": "",
+    "postSyncCommand": "ssh lambomoon 'cd /var/www/intertrader-content && git reset --hard && git pull && chmod -R 755 ../intertrader-content'",
+    "head": "",
+    "foot": ""
   }
 }
