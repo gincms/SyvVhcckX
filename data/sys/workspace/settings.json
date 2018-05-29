@@ -8,7 +8,7 @@
     "defaultSection": "",
     "defaultBlog": "0",
     "theme": "gin-intertrader",
-    "gaTrackingId": "",
+    "gaTrackingId": "UA-113364681-2",
     "postSyncCommand": "ssh lambomoon 'cd /var/www/intertrader-content && git reset --hard && git pull && chmod -R 755 ../intertrader-content'",
     "head": "",
     "foot": ""
