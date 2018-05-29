@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="{{gin.site.description}}">
   <link rel="canonical" href="{{url()}}">
-  <link rel="shortcut icon" href="/static/img/favicon.ico">
+  <link rel="shortcut icon" href="{{asset('img/favicon.png')}}">
   <title>{% block title %}{{gin.site.name}}{% endblock %}</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -72,6 +72,5 @@
   {% block foot %}
   {% endblock%}
 </footer>
-<script src="/static/js/main.js"></script>
 </body>
 </html>
