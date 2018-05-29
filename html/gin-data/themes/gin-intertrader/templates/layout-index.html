@@ -33,37 +33,15 @@
   </script>
 </head>
 <body>
-<nav class="navbar is-fixed-top">
-  <div class="container">
-    <div class="navbar-brand">
-        <a class="navbar-item lambomoon-logo" href="https://lambomoon.club">
-          <img src="/static/img/logo-t-343x75.png" alt="LamboMoon">
-      </a>
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-    <div class="navbar-menu">
-      <div class="navbar-end">
-        <a href="/info/" class="navbar-item">Mining on LamboMoon</a>
-      </div>
-    </div>
-  </div>
-</nav>
-<header class="hero">
+<header class="hero is-fullheight">
   <div class="hero-body">
     <div class="container">
       <div class="columns">
         <div class="column is-10 is-offset-1 is-6-desktop is-offset-4-desktop">
           <h1 class="title">
-            <a href="{{content.url}}">{{content.title}}</a>
+            <a href="{{content.url}}">{{gin.site.name}}</a>
           </h1>
-          {% if content.subtitle %}
-          <h2 class="subtitle">{{content.subtitle}}</h2>
-          {% endif %}
-
+          <h2 class="subtitle">{{gin.site.tagline}}</h2>
         </div>
       </div>
     </div>
