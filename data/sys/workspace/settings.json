@@ -9,7 +9,7 @@
     "defaultBlog": "0",
     "theme": "gin-intertrader",
     "gaTrackingId": "UA-113364681-2",
-    "postSyncCommand": "",
+    "postSyncCommand": "ssh lambomoon 'cd /var/www/intertrader && git reset --hard && git pull && chmod -R 755 ../intertrader'",
     "head": "",
     "foot": ""
   }
