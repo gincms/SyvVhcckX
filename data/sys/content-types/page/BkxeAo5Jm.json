@@ -1,16 +1,16 @@
 {
   "title": "Do more with your crypto.",
   "subtitle": "When Moon? When Lambo?",
-  "slug": "do-more-with-your-crypto",
+  "slug": "index",
   "section": "",
-  "url": "/do-more-with-your-crypto/",
+  "url": "/",
   "body": "<h2 class=\"has-text-centered\"> InterTrader shows you the best prices for your crypto, whether buying or selling</h2>\r\n\r\n<span class=\"content-image\">\r\n![](/gin-data/images/1527601175738-insn-price-comparison.png)\r\n</span>\r\n\r\n<h2 class=\"has-text-centered\">Find intertrading opportunities from <span class=\"buy\">bid</span> and <span class=\"sell\">ask</span> prices on different exchanges</h2>\r\n\r\n<span class=\"content-image\">\r\n![](/gin-data/images/1527602086811-btcz-price-comparison.png)\r\n</span>",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "created": "2018-05-29T10:39:35.614Z",
-  "updated": "2018-05-29T15:41:12.026Z",
+  "updated": "2018-05-29T15:42:10.447Z",
   "published": "2018-05-29T10:40:16.544Z",
   "contentType": "page",
   "id": "BkxeAo5Jm"
