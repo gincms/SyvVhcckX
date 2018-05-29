@@ -13,79 +13,55 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="{{gin.site.description}}">
   <link rel="canonical" href="{{url()}}">
-  {% if content.amp %}
-  <link rel="amphtml" href="{{ampurl()}}">
-  {% endif %}
   <link rel="shortcut icon" href="/static/img/favicon.ico">
   <title>{% block title %}{{gin.site.name}}{% endblock %}</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/static/css/yeti.css">
-  <link rel="stylesheet" href="/static/css/main.css">
-  <!--<link rel="stylesheet" href="/info{{asset('css/main.css')}}">-->
+  <!--
+  <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/darkly/bulmaswatch.min.css">
+  -->
+  <!--<link rel="stylesheet" href="/static/css/main.css">-->
+  <link rel="stylesheet" href="{{asset('css/main.css')}}">
   {{ head() | safe }}
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
       "@type": "Brand",
       "logo": "https://lambomoon.club/img/lambomoon-500x149.png",
-      "name": "LamboMoon",
-      "alternateName": "Lambo Moon",
-      "description": "LamboMoon provide a stable, anonymous mining pool for mining a variety of equihash altcoins. We also contribute both time and a portion of revenue directly to some of the communities of coins available to mine. By mining with LamboMoon, miners help to distribute the network hashing power, preventing other pools from growing too large and increasing the risk of a majority attack (AKA 51% attack).",
-      "url": "https://lambomoon.club"
+      "name": "{{gin.site.name}}",
+      "description": "{{gin.site.description}}",
+      "url": "https://intertrader.online"
     }
   </script>
 </head>
 <body>
-<nav class="navbar is-fixed-top">
-  <div class="container">
-    <div class="navbar-brand">
-        <a class="navbar-item lambomoon-logo" href="https://lambomoon.club">
-          <img src="/static/img/logo-t-343x75.png" alt="LamboMoon">
-      </a>
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-    <div class="navbar-menu">
-      <div class="navbar-end">
-        <a href="/info/" class="navbar-item">Mining on LamboMoon</a>
-      </div>
-    </div>
-  </div>
-</nav>
 <article>
-  <section class="section">
-    <div class="container">
-      <div class="columns">
-        <div class="column is-10 is-offset-1 is-6-desktop is-offset-4-desktop">
-          <div class="heading">
-            {% block heading %}<em>Untitled</em>{% endblock %}
+  <header class="hero">
+    <div class="hero-body">
+      <div class="container">
+        <div class="columns">
+          <div class="column is-10 is-8-tablet is-6-desktop">
+            <h1 class="title">
+              <a href="{{content.url}}">{{content.title}}</a>
+            </h1>
+            {% if content.subtitle %} 
+            <h2 class="subtitle">{{content.subtitle}}</h2>
+            {% endif %}
           </div>
-          {% if navBack %}
-          <div class="gin-nav-back">
-            <a href="{{navBack}}">&larr; Back</a>
-          </div>
-          {% endif %}
         </div>
       </div>
     </div>
-  </section>
+  </header>
   <section class="section">
     <div class="container">
       <div class="columns">
-        <button id="gin-nav-tree__toggle" class="is-hidden-desktop button is-text">
-         <i class="fa fa-newspaper-o"></i> More from LamboMoon
-        </button>
-        <div id="gin-nav-tree" class="column is-3 is-offset-1">
-          {{ nav("tree") | safe }}
-        </div>
-        <div class="column is-10 is-6-desktop">
+        <div class="column is-10 is-9-desktop">
           <div id="primary-content" class="content">
             {% block content %} Nothing to see here {% endblock %}
           </div>
+        </div>
+        <div id="gin-nav-tree" class="column is-3">
+          {{ nav("tree") | safe }}
         </div>
       </div>
     </div>
