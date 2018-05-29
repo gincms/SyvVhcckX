@@ -4,5 +4,11 @@
     "type": "page",
     "title": "InterTrader App",
     "url": "/"
+  },
+  "HkfNykoym": {
+    "id": "HkfNykoym",
+    "type": "page",
+    "title": "What is inter-trading?",
+    "url": "/what-is-intertrading/"
   }
 }
