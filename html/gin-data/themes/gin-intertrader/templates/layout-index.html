@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head data-gincb="{{gin.cacheBuster}}">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113364681-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-113364681-1');
+  </script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="{{gin.site.description}}">
+  <link rel="canonical" href="{{url()}}">
+  <link rel="shortcut icon" href="/static/img/favicon.ico">
+  <title>{% block title %}{{gin.site.name}}{% endblock %}</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/darkly/bulmaswatch.min.css">
+  <link rel="stylesheet" href="/static/css/main.css">
+  <!--<link rel="stylesheet" href="/info{{asset('css/main.css')}}">-->
+  {{ head() | safe }}
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Brand",
+      "logo": "https://lambomoon.club/img/lambomoon-500x149.png",
+      "name": "{{gin.site.name}}",
+      "description": "{{gin.site.description}}",
+      "url": "https://intertrader.online"
+    }
+  </script>
+</head>
+<body>
+<header class="hero is-fullheight">
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-10 is-offset-1 is-6-desktop is-offset-4-desktop">
+          <h1 class="title">
+            <a href="{{content.url}}">{{gin.site.name}}</a>
+          </h1>
+          <h2 class="subtitle">{{gin.site.tagline}}</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<section class="section">
+  <div class="container">
+    <section id="primary-content" class="content">
+      <div class="columns">
+        <button id="gin-nav-tree__toggle" class="is-hidden-desktop button is-text">
+         <i class="fa fa-newspaper-o"></i> More from LamboMoon
+        </button>
+        <div id="gin-nav-tree" class="column is-3 is-offset-1">
+          {{ nav("tree") | safe }}
+        </div>
+        <div class="column is-10 is-6-desktop">
+          {% block content %} Nothing to see here {% endblock %}
+        </div>
+      </div>
+    </section>
+  </div>
+</section>
+<footer class="footer has-text-centered">
+  {{ nav("footer") | safe }}
+  {% block foot %}
+  {% endblock%}
+</footer>
+<script src="/static/js/main.js"></script>
+</body>
+</html>
