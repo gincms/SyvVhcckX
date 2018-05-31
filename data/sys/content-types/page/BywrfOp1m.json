@@ -4,13 +4,13 @@
   "slug": "compare-page",
   "section": "user-guide",
   "url": "/user-guide/compare-page/",
-  "body": "When using InterTrader, if you're not [searching for profitable trades](/user-guide/finding-profitable-cryptocurrency-pairs/ \"Finding profitable cryptocurrency pairs: search and analysis\") , a lot of your time will be spent on the comparison page, where you can see:\r\n\r\n* Prices of a cryptocurrency pair across multiple exchanges\r\n* Potential profit\r\n* Orderbooks from the exchanges where the coin is listed\r\n\r\n## Chart\r\n\r\nThe prominent bar chart on the comparison page provides a quick overview of the buy and sell price across all the exchanges for which InterTrader has coin pair data.\r\n\r\n<span class=\"screenshot\">\r\n![](/gin-data/images/1527802167227-compare-crypto-chart.png)\r\n</span>\r\n  \r\nTapping bulb <ion-icon name=\"bulb\"></ion-icon> icon displays the analysis summary for the coin across all the exchanges. If there is potential profit to be earned, it is displayed here.\r\n\t\r\n<span class=\"screenshot\">\r\n![](/gin-data/images/1527802334136-compare-crypto-analysis.png)\r\n</span>\r\n  \r\n\t\r\n<span class=\"screenshot\">\r\n![](/gin-data/images/1527802183524-compare-crypto-details.png)\r\n</span>\r\n  \r\n",
+  "body": "When using InterTrader, if you're not [searching for profitable trades](/user-guide/finding-profitable-cryptocurrency-pairs/ \"Finding profitable cryptocurrency pairs: search and analysis\") , a lot of your time will be spent on the comparison page, where you can see:\r\n\r\n* Prices of a cryptocurrency pair across multiple exchanges\r\n* Potential profit\r\n* Orderbooks from the exchanges where the coin is listed\r\n\r\n## Chart\r\n\r\nThe prominent bar chart on the comparison page provides a quick overview of the buy and sell price across all the exchanges for which InterTrader has coin pair data.\r\n\r\n<span class=\"screenshot\">\r\n![](/gin-data/images/1527802167227-compare-crypto-chart.png)\r\n</span>\r\n  \r\n## Price analysis\r\nTapping bulb <ion-icon name=\"bulb\"></ion-icon> icon displays the analysis summary for the coin across all the exchanges. If there is potential profit to be earned, it is displayed here.\r\n\t\r\n<span class=\"screenshot\">\r\n![](/gin-data/images/1527802334136-compare-crypto-analysis.png)\r\n</span>\r\n  \r\n\t\r\n<span class=\"screenshot\">\r\n![](/gin-data/images/1527802183524-compare-crypto-details.png)\r\n</span>\r\n  \r\n",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "created": "2018-05-31T13:01:51.370Z",
-  "updated": "2018-05-31T21:37:03.850Z",
+  "updated": "2018-05-31T21:37:42.547Z",
   "published": "",
   "contentType": "page",
   "id": "BywrfOp1m"
