@@ -2,9 +2,9 @@
   "label": "Footer",
   "name": "footer",
   "title": "",
-  "structure": " * [Google Play](https://play.google.com/store/apps/details?id=club.lambomoon.cec)\r\n * [@LamboMoonClub](https://twitter.com/LamboMoonClub)",
+  "structure": " * [Google Play](https://play.google.com/store/apps/details?id=club.lambomoon.cec)\r\n * [User Guide](/user-guide/ \"User Guide\")\r\n * [@LamboMoonClub](https://twitter.com/LamboMoonClub)",
   "created": "2018-05-29T13:32:30.777Z",
-  "updated": "2018-05-30T06:12:06.262Z",
+  "updated": "2018-05-31T22:08:38.772Z",
   "contentType": "navigation",
   "id": "HyvuL0cyX"
 }
