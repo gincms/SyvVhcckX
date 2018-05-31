@@ -4,14 +4,14 @@
   "slug": "user-guide",
   "section": "",
   "url": "/user-guide/",
-  "body": "InterTrader is designed to help you take advantage of the price variations between exchanges. This is a quick start guide with purely the essentials for you to use the app.\r\n\r\n## Getting started\r\n\r\n### Get the app\r\nIf you haven't already, download and install the app from [Google Play](https://play.google.com/store/apps/details?id=club.lambomoon.cec).\r\n\r\n### Find some coins\r\n\r\nWhen InterTrader starts you'll be on the _Favourites_ page. This list will be empty, so click the _`Find some coins`_ button.\r\n<div class=\"screenshot small\">\r\n![Start page](/gin-data/images/1527767084077-start-page.png)\r\n</div>\r\n\r\n\r\n### \r\n{{list type=page}}",
+  "body": "InterTrader is designed to help you take advantage of the price variations between exchanges. This is a quick start guide with purely the essentials for you to use the app.\r\n\r\n## Getting started\r\n\r\n### Get the app\r\nIf you haven't already, download and install the app from [Google Play](https://play.google.com/store/apps/details?id=club.lambomoon.cec).\r\n\r\n### Find some coins\r\n\r\nWhen InterTrader starts you'll be on the _Favourites_ page. This list will be empty, so start by tapping the _`Find some coins`_ button .\r\n<span class=\"screenshot small\">\r\n![Start page](/gin-data/images/1527767084077-start-page.png)\r\n</span>\r\n\r\n### Browse exchanges\r\n\r\nTap the exchange you'd like to browse. If looking for a specific coin, tap the search icon in the top right corner and start typing out the _symbol_.\r\n<span class=\"screenshot small\">\r\n![Exchanges](/gin-data/images/1527767569202-exchange-list.png)\r\n</span>\r\n\r\n{{list type=page}}",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "list": "1",
   "created": "2018-05-31T11:29:13.318Z",
-  "updated": "2018-05-31T11:47:41.962Z",
+  "updated": "2018-05-31T11:56:37.708Z",
   "published": "",
   "contentType": "page",
   "id": "rJ-9hUa1Q"
