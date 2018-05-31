@@ -4,13 +4,13 @@
   "slug": "finding-profitable-cryptocurrency-pairs",
   "section": "user-guide",
   "url": "/user-guide/finding-profitable-cryptocurrency-pairs/",
-  "body": "InterTrader sorts through _a lot_ of data to find you the most profitable opportunities. The outcome of its analysis is mostly presented on the [direct comparison page](/user-guide/compare-page/ \"The Compare Page\") for each market pair, and the search/analysis results page. Between these two sections, you'll find a lot of the key information you need.\r\n\r\n## Analysis\r\n\r\nTap the `Compare` tab to go to the Analysis results. InterTrader will automatically search for profitable trades using default search criteria. If no results are found, it may be because it hasn't yet retrieved the data from the exchanges. Swipe down on the screen to refresh its data. This can a minute, but once done analysis is very quick.\r\n\r\nWhen results are returned, you'll see something similar to this:\r\n  \r\n<span class=\"screenshot\">\r\n![Analysis results](/gin-data/images/1527773062124-analysis-results.png)\r\n</span>\r\n\r\n\r\n<span class=\"screenshot\">\r\n![Analysis search form](/gin-data/images/1527772574406-analysis-form.png)\r\n</span>\r\n\r\n\r\n\r\n\r\n\r\n<span class=\"screenshot\"></span>",
+  "body": "InterTrader sorts through _a lot_ of data to find you the most profitable opportunities. The outcome of its analysis is mostly presented on the [direct comparison page](/user-guide/compare-page/ \"The Compare Page\") for each market pair, and the search/analysis results page. Between these two sections, you'll find a lot of the key information you need.\r\n\r\n## Analysis\r\n\r\nTap the `Compare` tab to go to the Analysis results. InterTrader will automatically search for profitable trades using default search criteria. If no results are found, it may be because it hasn't yet retrieved the data from the exchanges. Swipe down on the screen to refresh its data. This can a minute, but once done analysis is very quick.\r\n\r\nWhen results are returned, you'll see something similar to this:\r\n  \r\n<span class=\"screenshot\">\r\n![Analysis results](/gin-data/images/1527773062124-analysis-results.png)\r\n</span>\r\n\r\n### What it all means\r\n\r\nLet's look at what all the data for each item means.\r\n\r\n* <ion-icon name=\"stats\"></ion-icon> The number of exchanges InterTrader from gathered the data from.\r\n* <ion-icon name=\"arrow-round-forward\"></ion-icon> \r\n* <ion-icon name=\"arrow-round-back\"></ion-icon>\r\n* <ion-icon name=\"logo-bitcoin\"></ion-icon>\r\n* <ion-icon name=\"alert\"></ion-icon>\r\n* _**Updated...** \r\n\r\n\r\n<span class=\"screenshot\">\r\n![Analysis search form](/gin-data/images/1527772574406-analysis-form.png)\r\n</span>\r\n\r\n\r\n\r\n\r\n\r\n<span class=\"screenshot\"></span>",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "created": "2018-05-31T13:10:21.339Z",
-  "updated": "2018-05-31T13:25:26.989Z",
+  "updated": "2018-05-31T13:33:21.488Z",
   "published": "",
   "contentType": "page",
   "id": "HySHNd6Jm"
