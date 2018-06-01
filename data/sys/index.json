@@ -29,5 +29,11 @@
     "type": "page",
     "title": "The Comparison Page",
     "url": "/user-guide/compare-page/"
+  },
+  "rkJfbtRJm": {
+    "id": "rkJfbtRJm",
+    "type": "page",
+    "title": "Quick reference",
+    "url": "/user-guide/quick-reference/"
   }
 }
