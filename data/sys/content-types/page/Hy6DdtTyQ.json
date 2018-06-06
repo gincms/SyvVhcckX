@@ -4,13 +4,13 @@
   "slug": "refining-your-search",
   "section": "user-guide/finding-profitable-cryptocurrency-pairs",
   "url": "/user-guide/finding-profitable-cryptocurrency-pairs/refining-your-search/",
-  "body": "## Refining your search\r\n\r\nIf you're not getting the results you want from the search page, whether too few or two many, there are a number of parameters you can change to refine your search and improve the results.\r\n\r\nTap the funnel <ion-icon name=\"funnel\"></ion-icon> icon in the top right corner of the page and it will reveal a form with various parameters.\r\n\r\n<span class=\"screenshot\">\r\n![Analysis search form](/gin-data/images/1527772574406-analysis-form.png)\r\n</span>\r\n\r\n<span class=\"screenshot\"></span>",
+  "body": "## Refining your search\r\n\r\nIf you're not getting the results you want from the search page, whether too few or too many, there are a number of parameters you can change to refine your search and improve the results.\r\n\r\nTap the funnel <ion-icon name=\"funnel\"></ion-icon> icon in the top right corner of the page and it will reveal search form.\r\n\r\n<span class=\"screenshot\">\r\n![Analysis search form](/gin-data/images/1527772574406-analysis-form.png)\r\n</span>\r\n\r\n### Max <span class=\"buy\">buy</span> % difference\r\n\r\n### Max <span class=\"sell\">sell</span> % difference\r\n\r\n### Min profit %\r\n\r\n### Min no. of exchanges\r\n\r\n### Currency\r\n\r\n### Buy only at...\r\n\r\n### Sell only at...\r\n\r\n### Order by...\r\n\r\n### Sort direction\r\n\r\n### Max no. of results",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "created": "2018-05-31T14:36:21.190Z",
-  "updated": "2018-05-31T14:41:49.968Z",
+  "updated": "2018-06-06T16:45:27.742Z",
   "published": "",
   "contentType": "page",
   "id": "Hy6DdtTyQ"
