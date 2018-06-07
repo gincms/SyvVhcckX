@@ -4,13 +4,13 @@
   "slug": "releases",
   "section": "",
   "url": "/releases/",
-  "body": "* ## [v1.0.0: Major update contain several new features](/releases/v1-0-0/ \"v1.0.0\")\r\n* ## v0.1.0: UI improvements and bug fixes the on comparison page",
+  "body": "> #### Below you can find a summary basic summary of releases and links to the release page.\r\n\r\n* ###[v1.0.0: Major update contain several new features](/releases/v1-0-0/ \"v1.0.0\")\r\n* ### v0.1.0: UI improvements and bug fixes the on comparison page",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "created": "2018-06-07T10:21:59.309Z",
-  "updated": "",
+  "updated": "2018-06-07T10:23:11.986Z",
   "published": "",
   "contentType": "page",
   "id": "SJ1LwtLe7"
