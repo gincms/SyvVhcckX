@@ -3,6 +3,6 @@
   "title": "InterTrader Theme",
   "description": "The InterTrader Gin theme.",
   "image": "screenshot.png",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "repository": "git@bitbucket.org:latnblack/gin-intertrader.git"
 }
