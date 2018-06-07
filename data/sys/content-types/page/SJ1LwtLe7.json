@@ -4,13 +4,13 @@
   "slug": "releases",
   "section": "",
   "url": "/releases/",
-  "body": "> #### Below you can find a basic summary of InterTrader releases, with links to the release pages.\r\n\r\n* ### [v1.0.0: Major update contain several new features](/releases/v1-0-0/ \"v1.0.0\")\r\n* ### v0.1.0: UI improvements and bug fixes on the comparison page\r\n* ### v0.0.1: First release of InterTrader",
+  "body": "> #### Below you can find a basic summary of InterTrader releases, with links to the release pages.\r\n\r\n* ### [v1.0.0: Major update contain several new features](/releases/v1-0-0/ \"v1.0.0\")\r\n* ### v0.1.0: UI improvements and bug fixes\r\n* ### v0.0.1: First release of InterTrader",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "created": "2018-06-07T10:21:59.309Z",
-  "updated": "2018-06-07T10:24:28.973Z",
+  "updated": "2018-06-07T10:25:03.433Z",
   "published": "",
   "contentType": "page",
   "id": "SJ1LwtLe7"
