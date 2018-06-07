@@ -4,13 +4,13 @@
   "slug": "releases",
   "section": "",
   "url": "/releases/",
-  "body": "## InterTrader releases\r\n\r\nBelow are links to the InterTrader release details pages (where available).\r\n\r\n* ### [v1.0.0: Major update contain several new features](/releases/v1-0-0/ \"v1.0.0\")\r\n* ### v0.1.0: UI improvements and bug fixes\r\n* ### v0.0.1: First release of InterTrader",
+  "body": "## InterTrader releases\r\n\r\nBelow are links to the InterTrader release details pages (where available).\r\n\r\n> _NOTE: Not all releases will have accompanying release pages as it's purely dependent on how much has changed from releasse to release.\r\n  \r\n\r\n* ### [v1.0.0: Major update contain several new features](/releases/v1-0-0/ \"v1.0.0\")\r\n* ### v0.1.0: UI improvements and bug fixes\r\n* ### v0.0.1: First release of InterTrader",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "created": "2018-06-07T10:21:59.309Z",
-  "updated": "2018-06-07T10:27:03.127Z",
+  "updated": "2018-06-07T10:28:32.967Z",
   "published": "2018-06-07T10:27:03.127Z",
   "contentType": "page",
   "id": "SJ1LwtLe7"
