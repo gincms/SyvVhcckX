@@ -10,7 +10,7 @@
     "theme": "gin-intertrader",
     "gaTrackingId": "UA-113364681-2",
     "postSyncCommand": "ssh lambomoon 'cd /var/www/intertrader && git reset --hard && git pull && chmod -R 755 ../intertrader'",
-    "head": "",
+    "head": "<style>\r\nfooter .gin-navigation {\r\n    max-width: 250px;\r\n    text-align: left;\r\n    margin: auto;\r\n    width: auto;\r\n}\r\n</style>",
     "foot": ""
   }
 }
