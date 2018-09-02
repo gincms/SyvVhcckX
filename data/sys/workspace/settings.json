@@ -2,7 +2,7 @@
   "site": {
     "name": "InterTrader",
     "tagline": "Buy & sell your crypto at the best price",
-    "description": "InterTrader allows you to compare the price of the same coin across multiple exchanges simultaneously. It highlights price differences and opportunities to use the them to your advantage.",
+    "description": "InterTrader facilitates arbitrage, allowing you to compare the price of a coin across multiple exchanges simultaneously. It highlights price differences and opportunities to use the them to your advantage.",
     "url": "https://intertrader.online",
     "contentRoot": "",
     "defaultSection": "",
