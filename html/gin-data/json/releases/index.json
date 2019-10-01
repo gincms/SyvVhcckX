@@ -1,0 +1,14 @@
+{
+  "title": "Releases",
+  "subtitle": "",
+  "url": "/releases/",
+  "body": "<h2 id=\"intertrader-releases\">InterTrader releases</h2>\n<p>Below are links to the InterTrader release details pages (where available).</p>\n<blockquote>\n<p><em>NOTE: Not all releases will have accompanying release pages as it&#39;s purely dependent on how much has changed from releasse to release.</em></p>\n</blockquote>\n<ul>\n<li><h3 id=\"v1-0-0-major-update-contain-several-new-features\"><a href=\"/releases/v1-0-0/\" title=\"v1.0.0\">v1.0.0: Major update contain several new features</a></h3>\n</li>\n<li><h3 id=\"v0-1-0-ui-improvements-and-bug-fixes\">v0.1.0: UI improvements and bug fixes</h3>\n</li>\n<li><h3 id=\"v0-0-1-first-release-of-intertrader\">v0.0.1: First release of InterTrader</h3>\n</li>\n</ul>\n",
+  "featured-image": {
+    "src": ""
+  },
+  "summary": "",
+  "created": "2018-06-07T10:21:59.309Z",
+  "updated": "2018-06-07T10:28:52.548Z",
+  "published": "2018-06-07T10:27:03.127Z",
+  "contentType": "page"
+}
