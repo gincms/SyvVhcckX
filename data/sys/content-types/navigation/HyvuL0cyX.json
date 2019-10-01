@@ -2,9 +2,9 @@
   "label": "Footer",
   "name": "footer",
   "title": "",
-  "structure": " * <ion-icon name=\"chatboxes\"></ion-icon> [Discord](https://discord.gg/QQpAHYn)\r\n * <ion-icon name=\"book\"></ion-icon> [User Guide](/user-guide/ \"User Guide\")\r\n * <ion-icon name=\"logo-google\"></ion-icon> [Get the app](https://play.google.com/store/apps/details?id=club.lambomoon.intertrader)\r\n * <ion-icon name=\"help\"></ion-icon> [What is intertrading?](/what-is-intertrading/ \"What is inter-trading?\")\r\n * <ion-icon name=\"logo-twitter\"></ion-icon> [@LamboMoonClub](https://twitter.com/LamboMoonClub \"LamboMoon on Twitter\")\r\n * <ion-icon name=\"logo-instagram\"></ion-icon> [@lambomoon](https://www.instagram.com/lambomoon/ \"LamboMoon on Instagram\")",
+  "structure": " * <ion-icon name=\"chatboxes\"></ion-icon> [Discord](https://discord.gg/QQpAHYn)\r\n * <ion-icon name=\"book\"></ion-icon> [User Guide](/user-guide/ \"User Guide\")\r\n * <ion-icon name=\"logo-google\"></ion-icon> [Get the app](https://play.google.com/store/apps/details?id=club.lambomoon.intertrader)\r\n * <ion-icon name=\"help\"></ion-icon> [What is intertrading?](/what-is-intertrading/ \"What is arbitrage?\")\r\n * <ion-icon name=\"logo-twitter\"></ion-icon> [@LamboMoonClub](https://twitter.com/LamboMoonClub \"LamboMoon on Twitter\")\r\n * <ion-icon name=\"logo-instagram\"></ion-icon> [@lambomoon](https://www.instagram.com/lambomoon/ \"LamboMoon on Instagram\")",
   "created": "2018-05-29T13:32:30.777Z",
-  "updated": "2018-06-10T08:23:48.135Z",
+  "updated": "2019-10-01T10:41:13.805Z",
   "contentType": "navigation",
   "id": "HyvuL0cyX"
 }
